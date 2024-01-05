@@ -20,7 +20,8 @@ This is a webpage that allows you to make a list of notes.
 ## Usage
 
 - View the application in your browser at "http://localhost:3001"
-- Type notes
+- Type notes  
+  ![screenshot of web function](./images/capture.png/)
 
 ## Credits
 
