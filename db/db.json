@@ -1,1 +1,17 @@
-[{"title":"Test Title","text":"Test text"},{"title":"This is a title","text":"This is a note\n"},{"title":"Note test 3","text":"Note text 3"},{"title":"This is a title","text":"This is text"},{"id":"85065dd5-7903-48c8-82e3-47540f84f457","title":"New object","text":"This should have a new id"}]
+[
+  {
+    "id": "85065dd5-7903-48c8-82e3-47540f84f457",
+    "title": "New object",
+    "text": "This should have a new id"
+  },
+  {
+    "id": "8f5d0195-4822-4115-9f0e-20bff67d99c4",
+    "title": "ID Test",
+    "text": "In theory, only notes with IDs can be properly clicked to display text"
+  },
+  {
+    "id": "54e4be9b-c453-4d4d-84ed-fbb648a576d7",
+    "title": "ID Confirmed",
+    "text": "Notes with IDs can be clicked to display their text here. Notes created before UUIDs assigned do not have this functionality."
+  }
+]
