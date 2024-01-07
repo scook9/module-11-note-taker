@@ -16,6 +16,7 @@ This is a webpage that allows you to make a list of notes.
 - Initialize npm in the console by typing "npm i" once navigated to the file folder
 - Run the "node server.js" file through the console
 - View the application in your browser at "http://localhost:3001"
+- Alternatively, visit https://shrouded-springs-23611-146ad9d1f54a.herokuapp.com/  
 
 ## Usage
 
